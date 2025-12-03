@@ -17,7 +17,7 @@ async def loadPlugins():
         module_name = getattr(imported_module, "__MODULE__", "").replace(" ", "_").lower()
         if module_name:
             HELP_COMMANDS[module_name] = imported_module
-    print(f"[🤖 MAKRICO 🤖] [✴️ TELAH BERHASIL DIENTOT ✴️]")
+    print(f"[🤖 USERBOT PREMIUM 🤖] [✴️ TELAH BERHASIL DI AKTIFKAN ✴️]")
     await bot.send_message(OWNER_ID, 
        f"""                    
 <b>᪣ ᴜsᴇʀʙᴏᴛ ʙᴇʀʜᴀsɪʟ ᴅɪᴀᴋᴛɪꜰᴋᴀɴ</b>

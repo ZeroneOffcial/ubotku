@@ -17,7 +17,7 @@ async def _(client, message):
     user_id = message.from_user.id
     buttons = BTN.START(message)
     msg = MSG.START(message)
-    pantek = "https://files.catbox.moe/7ggxo2.jpg"
+    pantek = "https://files.catbox.moe/sgmu46.jpg"
 
     await bot.send_photo(
         user_id, 
@@ -91,7 +91,7 @@ async def _(client, callback_query):
         waktu = exp.strftime("%d-%m-%Y") if exp else "None"
         return await callback_query.edit_message_text(
             f"""
-<blockquote> ᴜꜱᴇʀʙᴏᴛ ᴘʀᴇᴍɪᴜᴍ ʙʏ @yaetiem
+<blockquote> ᴜꜱᴇʀʙᴏᴛ ᴘʀᴇᴍɪᴜᴍ ʙʏ @ZeroneOfficial
    ꜱᴛᴀᴛᴜꜱ : ᴘʀᴇᴍɪᴜᴍ
    ᴘʀᴇꜰɪxᴇꜱ : {prefix[0]}
    ᴇxᴘɪʀᴇᴅ_ᴏɴ : {waktu}</b></blockquote>

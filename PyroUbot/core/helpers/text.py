@@ -1,3 +1,4 @@
+
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from PyroUbot import OWNER_ID, bot, ubot, get_expired_date
@@ -18,10 +19,10 @@ class MSG:
 
 <b> 📚💎@{bot.me.username} ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅᴀᴘᴀᴛ ᴍᴇᴍʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ ᴅᴇɴɢᴀɴ ᴍᴜᴅᴀʜ</b>
 
-🚀ʙᴏᴛ ɪɴɪ ᴅɪᴋᴇᴍʙᴀɴɢᴋᴀɴ ᴏʟᴇʜ <a href=tg://openmessage?user_id={OWNER_ID}>@GanzVil21</a> ᴊɪᴋᴀ ᴀᴅᴀ ᴋᴇsᴀʟᴀʜᴀɴ ᴀᴛᴀᴜᴘᴜɴ ᴍᴀsᴀʟᴀʜ ᴅᴍ ᴏᴡɴᴇʀ ʙᴏᴛ ʏᴀɪᴛᴜ: <a href=tg://openmessage?user_id={OWNER_ID}>@GanzVil21</a>
+🚀ʙᴏᴛ ɪɴɪ ᴅɪᴋᴇᴍʙᴀɴɢᴋᴀɴ ᴏʟᴇʜ <a href=tg://openmessage?user_id={OWNER_ID}>@Zerone Official</a> ᴊɪᴋᴀ ᴀᴅᴀ ᴋᴇsᴀʟᴀʜᴀɴ ᴀᴛᴀᴜᴘᴜɴ ᴍᴀsᴀʟᴀʜ ᴅᴍ ᴏᴡɴᴇʀ ʙᴏᴛ ʏᴀɪᴛᴜ: <a href=tg://openmessage?user_id={OWNER_ID}>@GanzVil21</a>
 
 ᴛᴏᴛᴀʟ ᴘᴇɴɢɢᴜɴᴀ ᴜʙᴏᴛ: {len(ubot._ubot)} 
-ᴏᴡɴᴇʀ ᴜʙᴏᴛ: <a href=tg://openmessage?user_id={OWNER_ID}>G̺͆A̺͆N̺͆Z̺͆ V̺͆I̺͆L̺͆O̺͆P̺͆E̺͆R̺͆🇰🇼</a>
+ᴏᴡɴᴇʀ ᴜʙᴏᴛ: <a href=tg://openmessage?user_id={OWNER_ID}>Zerone Official🇰🇼</a>
 
 <u>ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇᴍʙᴜᴀᴛ ᴜsᴇʀʙᴏᴛ</u></b></blockquote>
 """
@@ -37,7 +38,7 @@ class MSG:
 <b>🔖 ᴛᴏᴛᴀʟ ʜᴀʀɢᴀ: ʀᴘ {total}.000</b>
 <b>🗓️ ᴛᴏᴛᴀʟ ʙᴜʟᴀɴ: {bulan}</b> 
 
-OWNER BOT : <a href=tg://openmessage?user_id={OWNER_ID}>@GanzVil21</a> 
+OWNER BOT : <a href=tg://openmessage?user_id={OWNER_ID}>@Zerone Official</a> 
 
 <b>🛍 ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴋᴏɴꜰɪʀᴍᴀsɪ ᴜɴᴛᴜᴋ ᴋɪʀɪᴍ ʙᴜᴋᴛɪ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴀɴᴅᴀ</b></blockquote>
 """
@@ -50,5 +51,5 @@ OWNER BOT : <a href=tg://openmessage?user_id={OWNER_ID}>@GanzVil21</a>
 """
 
     def POLICY():
-        return """ <blockquote><b>ᴊɪᴋᴀ ᴀᴅᴀ ᴋᴇɴᴅᴀʟᴀ sɪʟᴀʜᴋᴀɴ ʜᴜʙᴜɴɢɪ  <a href=tg://openmessage?user_id={OWNER_ID}>@GanzVil21</a></b></blockquote>
+        return """ <blockquote><b>ᴊɪᴋᴀ ᴀᴅᴀ ᴋᴇɴᴅᴀʟᴀ sɪʟᴀʜᴋᴀɴ ʜᴜʙᴜɴɢɪ  <a href=tg://openmessage?user_id={OWNER_ID}>@Zerone Official</a></b></blockquote>
 """
